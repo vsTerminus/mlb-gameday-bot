@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@dotenvx/dotenvx": "^1.39.0",
     "ascii-table": "^0.0.9",
     "canvas": "^3.1.0",
     "chroma-js": "^2.6.0",
